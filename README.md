@@ -30,5 +30,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=artimanputra&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=artimanputra&theme=jolly" />
 </p>
-  <img alt="artimanputra Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=artimanputra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
+ 
