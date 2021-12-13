@@ -1,4 +1,6 @@
-<h1>Hi there <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="40vw" />, I am Arti
+<p align="center">
+  <img width="1000px" height="200px" src="readme.gif" alt="hello">
+</p>
 <h3 align="center">A girl exploring the stuffs!!!</h3>
 
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
