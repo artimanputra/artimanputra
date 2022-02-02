@@ -32,7 +32,7 @@
 - [5 best Online courses for students – every student must do](https://terminalstack.com/5-best-online-courses-for-students-every-student-must-do/)
 - [Best Roadmap of competitive Programming in 2022](https://terminalstack.com/best-roadmap-of-competitive-programming-in-2021/)
 - [Which one is a better framework for CSS -Tailwind CSS or Bootstrap](https://terminalstack.com/which-one-is-better-tailwind-css-or-bootstrap/)
-- [Best Resources to learn Object-Oriented Programming In 2022](https://terminalstack.com/best-resources-to-learn-oop/)
+- [The Complete Roadmap To Web Development in 2022](https://terminalstack.com/the-complete-roadmap-to-web-development-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://terminalstack.com/)
 </td>
