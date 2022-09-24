@@ -5,12 +5,13 @@
 
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🏫 I,m in sophomore year pursuing Bachelors in Computer Science & Engineering 
+- 🏫 I,m 3rd year student pursuing Bachelors in Computer Science & Engineering 
 - 🌱 I’m currently learning **Data Structures and Algorithms with Java**
+- 💻 I'm also **Goggle Developer Student Club Lead** at GCOEA and a **Beta Microsoft Learn Student Ambassador**.
 
-- 📝 I regularly write articles on (https://terminalstack.com)
+- 📝 Read My articles on https://medium.com/@aartimanputra20
 
-- 💬 Ask me about **Resources for learning Web Development , Roadmap**
+- 💬 Ask me about **Resources for learning Web Development , Roadmap, Open Source**
 
 - 📫 How to reach me **aartimanputra20@gmail.com**
 
