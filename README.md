@@ -29,13 +29,10 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Awesome GitHub Repositories which will help you in 2022](https://terminalstack.com/awesome-github-repositories-which-will-help-you-in-2022/)
-- [5 best Online courses for students – every student must do](https://terminalstack.com/5-best-online-courses-for-students-every-student-must-do/)
-- [Best Roadmap of competitive Programming in 2022](https://terminalstack.com/best-roadmap-of-competitive-programming-in-2021/)
-- [Which one is a better framework for CSS -Tailwind CSS or Bootstrap](https://terminalstack.com/which-one-is-better-tailwind-css-or-bootstrap/)
-- [The Complete Roadmap To Web Development in 2022](https://terminalstack.com/the-complete-roadmap-to-web-development-in-2022/)
+- [Collection of Open Source Events and Hackathons you need to know](https://medium.com/@aartimanputra20/collection-of-open-source-events-and-hackathons-you-need-to-know-3115b0a23d5b)
+- [Best Roadmap of competitive Programming in 2022](https://medium.com/@aartimanputra20/roadmap-of-competitive-programming-1e6354561b53)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://terminalstack.com/)
+➡️ [more blog posts...](https://medium.com/@aartimanputra20)
 </td>
 <td valign="top" width="50%">
 
