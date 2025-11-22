@@ -28,7 +28,7 @@
 <a href="https://discord.gg/Arti2320#3276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arti2320#3276" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools New:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages -->
   <a href="https://www.java.com" target="_blank"> 
