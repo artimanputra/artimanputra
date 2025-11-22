@@ -5,17 +5,21 @@
 
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🏫 I,m 4th year student pursuing Bachelors in Computer Science & Engineering 
-- 🌱 I’m currently learning **Data Structures and Algorithms with Java**
-- 💻 I'm also **Goggle Developer Student Club Lead** at GCOEA and a **Beta Microsoft Learn Student Ambassador**.
+- 👨‍💻 I’m working as a Senior Software Engineer at Tata Consulting Engineering Limited
 
-- 📝 Read My articles on https://medium.com/@aartimanputra20
+- 🌱 Currently learning and exploring Data Structures and Algorithms with Java
 
-- 💬 Ask me about **Resources for learning Web Development, Roadmap, Open Source**
+- 💻 Former Google Developer Student Club Lead (GDSC) at GCOEA and Beta Microsoft Learn Student Ambassador
 
-- 📫 How to reach me **aartimanputra20@gmail.com**
+- 📝 I write tech articles on Medium — check them out: https://medium.com/@aartimanputra20
 
-- ⚡ Fun fact **I think I am Funny XD**
+- 💬 Ask me about Web Development Resources, Roadmaps, Open Source, or Career Guidance
+
+- 📫 Reach me at aartimanputra20@gmail.com
+
+- 📍 Base Location: Navi Mumbai
+
+- ⚡ Fun fact: I think I am funny XD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
